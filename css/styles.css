@@ -8,7 +8,7 @@ img {
 }
 
 .jumbotron {
-background-color:  #faf6e9;
+background-color:  #fefbf1;
 
 }
 
@@ -16,5 +16,16 @@ background-color:  #faf6e9;
   float: right;
   max-width: 100px;
   max-height: none;
-  margin-right: 20px;
+  margin-right: 63px;
+  padding: 10px
+}
+
+h5 {
+  font-style: normal;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.Wikipedia {
+
 }
