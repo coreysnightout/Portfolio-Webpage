@@ -17,6 +17,18 @@ font-family: 'Oswald' , sans-serif;
   font-family: 'Oswald' , sans-serif;
 }
 
+.aboutMe h4 {
+  font-size: 25px;
+}
+
+.Headers {
+  text-align: center;
+}
+
+.Headers h1 {
+  font-size: 50px;
+}
+
 .corey {
   float: right;
   max-width: 100px;
@@ -29,6 +41,10 @@ h5 {
   font-style: normal;
   font-family: monospace;
   font-weight: bold;
+}
+
+.aboutmeTitle {
+  color: #ABAA98;
 }
 
 .interests ul {
