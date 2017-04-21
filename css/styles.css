@@ -9,7 +9,12 @@ img {
 
 .jumbotron {
 background-color:  #fefbf1;
+font-family: 'Oswald' , sans-serif;
 
+}
+
+.aboutMe {
+  font-family: 'Oswald' , sans-serif;
 }
 
 .corey {
@@ -34,6 +39,10 @@ h5 {
   font-family: monospace;
 }
 
+ol {
+  font-style: oblique;
+}
+
 .well {
-  background-color: #fefbf1; 
+  background-color: #fefbf1;
 }
