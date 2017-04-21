@@ -26,6 +26,14 @@ h5 {
   font-weight: bold;
 }
 
-.Wikipedia {
+.interests ul {
+  font-style: oblique;
+}
 
+.interests h3 {
+  font-family: monospace;
+}
+
+.well {
+  background-color: #fefbf1; 
 }
