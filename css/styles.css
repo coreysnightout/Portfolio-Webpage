@@ -59,3 +59,11 @@ h5 {
 ol {
   font-style: oblique;
 }
+
+footer {
+  text-align: center;
+}
+
+.well {
+  background-color: #fefbf1;
+}
