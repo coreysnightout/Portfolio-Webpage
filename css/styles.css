@@ -1,0 +1,20 @@
+body {
+  background-color:  #ede9d7;
+}
+
+img {
+  max-width: 250px;
+  max-height: none;
+}
+
+.jumbotron {
+background-color:  #faf6e9;
+
+}
+
+.corey {
+  float: right;
+  max-width: 100px;
+  max-height: none;
+  margin-right: 20px;
+}
